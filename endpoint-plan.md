@@ -61,3 +61,7 @@ Roles: **None** = public, **Any** = any logged-in user, **Organiser** / **Partic
 | PUT | /api/results/{id} | Corrects an already-captured result. | Organiser (owner) | `{ finishTime, position }` | 200 OK — updated result. 403 Forbidden. 404 Not Found. |
 | GET | /api/users/me/results | Lists the logged-in Participant's personal result history. | Participant | None | 200 OK — array of results. |
 | GET | /api/events/{eventId}/results | Lists all results for an event (public leaderboard). | None (public) | None | 200 OK — array of results. 404 Not Found — event does not exist. |
+
+## API Development Status
+
+The endpoints in this document are planned for the next stage of the RaceDay project. The current stage focusses on the database design and implementation. The REST API will be developed after the database has been completed and tested.
