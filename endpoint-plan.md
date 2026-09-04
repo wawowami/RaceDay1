@@ -65,3 +65,7 @@ Roles: **None** = public, **Any** = any logged-in user, **Organiser** / **Partic
 ## API Development Status
 
 The endpoints in this document are planned for the next stage of the RaceDay project. The current stage focusses on the database design and implementation. The REST API will be developed after the database has been completed and tested.
+
+## Purpose
+
+The endpoint plan provides a guide for the REST API that will be developed in the next stage of the RaceDay project. It outlines the main resources and operations that the system will need to support.
