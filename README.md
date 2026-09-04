@@ -124,4 +124,4 @@ AI was used to assist with the project, mainly for troubleshooting and clearing 
 
 **Part 1 — System Planning and Database: Completed**
 
-The next stages of the project will involve developing the REST API and MVC web application.
+The database has been created and tested in SQL Server Management Studio. The project documentation and supporting files are included in this repository.
