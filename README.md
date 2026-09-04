@@ -59,6 +59,8 @@ These tables are linked through primary keys and foreign keys. This allows the d
 
 The database uses primary keys and foreign keys to connect the tables and maintain relationships between the different parts of the system.
 
+The database was designed to keep the information organised and reduce unnecessary duplication. Each table has a primary key, while foreign keys are used where tables need to reference information from another table.
+
 The ERD shows these relationships and was used as a reference when creating the SQL database.
 
 ## API Endpoint Plan
