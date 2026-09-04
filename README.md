@@ -92,6 +92,8 @@ The script:
 - Inserts sample data
 - Includes a verification query to check the data
 
+  The SQL script was developed and tested using SQL Server Management Studio. Any errors found during testing were corrected before the final version was added to the repository.
+
 The script was tested using SQL Server Management Studio (SSMS).
 
 ## Testing
