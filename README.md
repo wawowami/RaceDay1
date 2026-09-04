@@ -125,3 +125,8 @@ AI was used to assist with the project, mainly for troubleshooting and clearing 
 **Part 1 — System Planning and Database: Completed**
 
 The database has been created and tested in SQL Server Management Studio. The project documentation and supporting files are included in this repository.
+
+## Markdown
+
+
+This repository contains the completed planning and database work for Part 1 of the RaceDay project.
