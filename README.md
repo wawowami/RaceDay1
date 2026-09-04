@@ -34,8 +34,6 @@ The two roles have different responsibilities within the system, with organisers
 
 ## Project Files
 
-## Project Files
-
 The repository currently contains the main files used for the RaceDay project:
 
 - `README.md` — Project overview and documentation
