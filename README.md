@@ -8,6 +8,8 @@ Participants will be able to create an account, view available events, enter eve
 
 This repository contains the work completed for Part 1 of the project, which focuses on the system planning and database design.
 
+The main goal of the project is to provide a structured way of managing race events and the information connected to them. The database forms the foundation of the system and will support the API and web application in the later stages.
+
 ## User Roles
 
 ### Organiser
