@@ -48,6 +48,7 @@ The RaceDay database contains six main tables:
 - **Enrolments** — Records participants entering event categories
 - **Results** — Stores participant race results
 
+These tables are linked through primary keys and foreign keys. This allows the database to keep related information connected.
 The database uses primary keys and foreign keys to connect the tables and maintain relationships between the different parts of the system.
 
 The ERD shows these relationships and was used as a reference when creating the SQL database.
