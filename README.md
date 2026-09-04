@@ -30,13 +30,16 @@ A participant will be able to:
 
 ## Project Files
 
-The repository currently contains the following files:
+## Project Files
+
+The repository currently contains the main files used for the RaceDay project:
 
 - `README.md` — Project overview and documentation
-- `RaceDay101.sql` — SQL Server database script
-- `raceday_erd.png` — Entity Relationship Diagram
-- `endpoint-plan.md` — Planned API endpoints
+- `RaceDay_Final_SSMS.sql` — SQL Server database script used to create and populate the database
+- `raceday_erd.png` — Entity Relationship Diagram showing the database structure
+- `endpoint-plan.md` — Planned REST API endpoints for the system
 
+These files cover the main planning and database work completed for Part 1 of the project.
 ## Database Design
 
 The RaceDay database contains six main tables:
