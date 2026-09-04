@@ -87,11 +87,13 @@ The script was tested using SQL Server Management Studio (SSMS).
 
 ## Testing
 
-The database script was tested in SQL Server Management Studio to make sure that the database, tables, relationships and sample data were created correctly.
+## Testing
 
-The final verification checks the number of records inserted into each table.
+The database script was tested in SQL Server Management Studio (SSMS). The database was created successfully, and the tables, relationships and sample data were checked using the verification query included in the SQL script.
 
-Expected sample data includes:
+The verification query checks the number of records in each table.
+
+The expected sample data is:
 
 - 4 Users
 - 3 Events
@@ -99,6 +101,8 @@ Expected sample data includes:
 - 3 Routes
 - 3 Enrolments
 - 2 Results
+
+This helped confirm that the tables were created correctly and that the sample records were inserted as expected.
 
 ## AI Tool Disclosure
 
