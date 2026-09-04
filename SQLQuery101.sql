@@ -1,3 +1,9 @@
+/*
+RaceDay Event Management System
+SQL Sever Database Script
+
+This script creates the raceday database,
+its tables, relationships and sample data.
 /* ============================================================
    RaceDay Database
    FINAL SSMS VERSION
