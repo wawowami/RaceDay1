@@ -28,6 +28,8 @@ A participant will be able to:
 - View their enrolment history
 - View their race results
 
+The two roles have different responsibilities within the system, with organisers managing the events and participants using the system to enter events and view their information.
+
 ## Project Files
 
 ## Project Files
