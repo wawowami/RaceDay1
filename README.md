@@ -58,6 +58,8 @@ The RaceDay database contains six main tables:
 
 These tables are linked through primary keys and foreign keys. This allows the database to keep related information connected, for example linking events to their categories, routes, enrolments and results.
 
+The `raceday_erd.png` file provides a visual representation of the database structure and shows how the different tables are related to each other.
+
 The database uses primary keys and foreign keys to connect the tables and maintain relationships between the different parts of the system.
 
 The database was designed to keep the information organised and reduce unnecessary duplication. Each table has a primary key, while foreign keys are used where tables need to reference information from another table.
