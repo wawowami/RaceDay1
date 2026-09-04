@@ -44,6 +44,7 @@ The repository currently contains the main files used for the RaceDay project:
 - `endpoint-plan.md` — Planned REST API endpoints for the system
 
 These files cover the main planning and database work completed for Part 1 of the project.
+
 ## Database Design
 
 The RaceDay database contains six main tables:
